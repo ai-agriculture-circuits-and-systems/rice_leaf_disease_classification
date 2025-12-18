@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1202517737,
+      "width": 224,
+      "height": 224,
+      "file_name": "aug_0_7142.jpg",
+      "size": 9163,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7157358737,
+      "image_id": 1202517737,
+      "category_id": 5805395737,
+      "segmentation": [],
+      "area": 50176,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5805395737,
+      "name": "Brown Spot",
+      "supercategory": "Brown Spot"
+    }
+  ]
+}

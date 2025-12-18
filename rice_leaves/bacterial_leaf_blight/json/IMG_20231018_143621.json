@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2036385153,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "IMG_20231018_143621.jpg",
+      "size": 997672,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1894161153,
+      "image_id": 2036385153,
+      "category_id": 8209714153,
+      "segmentation": [],
+      "area": 1920000,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8209714153,
+      "name": "Bacterial Leaf Blight",
+      "supercategory": "Bacterial Leaf Blight"
+    }
+  ]
+}

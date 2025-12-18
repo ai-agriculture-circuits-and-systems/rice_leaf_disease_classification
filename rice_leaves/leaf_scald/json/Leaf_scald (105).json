@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5796627559,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "Leaf_scald (105).jpg",
+      "size": 783534,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7095330559,
+      "image_id": 5796627559,
+      "category_id": 1723294559,
+      "segmentation": [],
+      "area": 1920000,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1723294559,
+      "name": "Leaf scald",
+      "supercategory": "Leaf scald"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8329543316,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "IMG_20231018_143840.jpg",
+      "size": 904103,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2141970316,
+      "image_id": 8329543316,
+      "category_id": 9607947316,
+      "segmentation": [],
+      "area": 1920000,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9607947316,
+      "name": "Leaf Blast",
+      "supercategory": "Leaf Blast"
+    }
+  ]
+}

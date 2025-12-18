@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3608309575,
+      "width": 1106,
+      "height": 830,
+      "file_name": "Sheath_Blight (95).jpg",
+      "size": 219622,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8779554575,
+      "image_id": 3608309575,
+      "category_id": 2046688575,
+      "segmentation": [],
+      "area": 917980,
+      "bbox": [
+        0,
+        0,
+        1106,
+        830
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2046688575,
+      "name": "Sheath Blight",
+      "supercategory": "Sheath Blight"
+    }
+  ]
+}

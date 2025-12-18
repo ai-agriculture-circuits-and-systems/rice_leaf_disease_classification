@@ -1,0 +1,49 @@
+[
+  {
+    "object_id": 0,
+    "label_id": 0,
+    "keyboard_shortcut": "0",
+    "object_name": "background"
+  },
+  {
+    "object_id": 1,
+    "label_id": 1,
+    "keyboard_shortcut": "1",
+    "object_name": "healthy_rice_leaf"
+  },
+  {
+    "object_id": 2,
+    "label_id": 2,
+    "keyboard_shortcut": "2",
+    "object_name": "bacterial_leaf_blight"
+  },
+  {
+    "object_id": 3,
+    "label_id": 3,
+    "keyboard_shortcut": "3",
+    "object_name": "brown_spot"
+  },
+  {
+    "object_id": 4,
+    "label_id": 4,
+    "keyboard_shortcut": "4",
+    "object_name": "leaf_blast"
+  },
+  {
+    "object_id": 5,
+    "label_id": 5,
+    "keyboard_shortcut": "5",
+    "object_name": "leaf_scald"
+  },
+  {
+    "object_id": 6,
+    "label_id": 6,
+    "keyboard_shortcut": "6",
+    "object_name": "sheath_blight"
+  }
+]
+
+
+
+
+

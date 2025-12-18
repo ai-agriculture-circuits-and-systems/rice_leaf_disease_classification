@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7785584904,
+      "width": 4000,
+      "height": 3000,
+      "file_name": "Healthy_rice_leaf (88).jpg",
+      "size": 4871925,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1716915904,
+      "image_id": 7785584904,
+      "category_id": 1304215904,
+      "segmentation": [],
+      "area": 12000000,
+      "bbox": [
+        0,
+        0,
+        4000,
+        3000
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1304215904,
+      "name": "Healthy Rice Leaf",
+      "supercategory": "Healthy Rice Leaf"
+    }
+  ]
+}
