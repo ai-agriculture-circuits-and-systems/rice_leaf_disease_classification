@@ -1,0 +1,1874 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Rice Leaf Disease Classification bacterial_leaf_blight test split",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 8374858635,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_6445.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4082332578,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_6069.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9819604488,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5050.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1569333580,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173309.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 7478136475,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5994.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5486633016,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_747.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8356941218,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173323.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 7183887441,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_517.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3080722887,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173001.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 2164411781,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1773.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8718576048,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4497.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5271572873,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173134.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 5722475639,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_939.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2158027081,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5361.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3376972886,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173137.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 5766721426,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5602.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1386237943,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_6303.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4404281694,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3145.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4661485706,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_814.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3748752933,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173142.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 6769293036,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5201.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8921570438,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1947.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5012289960,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5529.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5438595067,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_172850.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 4375534315,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3363.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7274823418,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_581.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8141344371,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_6368.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8704699097,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4269.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1618980704,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231018_143621.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 9600223884,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4427.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6394972480,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1614.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8590193781,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_2948.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5064617406,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231018_143741.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 5091417114,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173727_1.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 7605999296,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_172953.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 2055919155,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1888.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9741383863,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_457.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2126104945,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173139.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 7263168958,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3920.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5685153500,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5471.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8377426052,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_129.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3977911618,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_342.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4018987939,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_409.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6847186006,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1735.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6110074551,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4150.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6098998306,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4790.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5888387277,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_6001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7904871949,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231018_143859_1.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 1347019768,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_799.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1383797144,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1397.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4486885340,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_116.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7861988980,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173548.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 4364699820,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5311.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8901707238,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5667.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7607269716,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3867.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1406446455,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3186.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6909877184,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3329.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6291005262,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4247.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8792190563,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1197.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1756695664,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5928.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5156117134,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1204.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6767594862,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_2954.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5067434306,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3621.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3318999686,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_136.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1835039091,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4093.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9716253418,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4833.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2191897016,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3437.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4538088408,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5195.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5317403145,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5661.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7387568123,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3100.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5024583037,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_393.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8909452055,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_716.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7731803441,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4766.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1538284512,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1748.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3178258614,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_33.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9639939993,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3543.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8223791475,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_148.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3365916966,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4183.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4324714413,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5205.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7555996648,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3474.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1295003196,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_6507.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4522982099,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_471.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4050574689,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5438.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6241618927,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_1376.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9601253777,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3564.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9371993311,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_842.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7869403422,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5049.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4467471543,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4159.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7916013013,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4534.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9476322863,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/IMG_20231014_173543_1.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 6292899452,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_4494.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9865726584,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5633.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3281615092,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5344.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3712405961,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_3146.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9123361463,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_5456.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7727854775,
+      "file_name": "rice_leaves/bacterial_leaf_blight/images/aug_0_6396.jpg",
+      "width": 224,
+      "height": 224
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 8374858635,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4082332578,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9819604488,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1569333580,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7478136475,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5486633016,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8356941218,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7183887441,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 3080722887,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 2164411781,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 8718576048,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 5271572873,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 5722475639,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 2158027081,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 3376972886,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 5766721426,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 1386237943,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 4404281694,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 4661485706,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 3748752933,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 6769293036,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 8921570438,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 5012289960,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 5438595067,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 4375534315,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 7274823418,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 8141344371,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 8704699097,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 1618980704,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 9600223884,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 6394972480,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 8590193781,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 5064617406,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 5091417114,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 7605999296,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 2055919155,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 9741383863,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 38,
+      "image_id": 2126104945,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 7263168958,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 5685153500,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 8377426052,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 42,
+      "image_id": 3977911618,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 43,
+      "image_id": 4018987939,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 44,
+      "image_id": 6847186006,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 45,
+      "image_id": 6110074551,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 46,
+      "image_id": 6098998306,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 47,
+      "image_id": 5888387277,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 48,
+      "image_id": 7904871949,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 49,
+      "image_id": 1347019768,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 50,
+      "image_id": 1383797144,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 51,
+      "image_id": 4486885340,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 52,
+      "image_id": 7861988980,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 53,
+      "image_id": 4364699820,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 54,
+      "image_id": 8901707238,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 55,
+      "image_id": 7607269716,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 56,
+      "image_id": 1406446455,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 57,
+      "image_id": 6909877184,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 58,
+      "image_id": 6291005262,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 59,
+      "image_id": 8792190563,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 60,
+      "image_id": 1756695664,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 61,
+      "image_id": 5156117134,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 62,
+      "image_id": 6767594862,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 63,
+      "image_id": 5067434306,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 64,
+      "image_id": 3318999686,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 65,
+      "image_id": 1835039091,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 66,
+      "image_id": 9716253418,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 67,
+      "image_id": 2191897016,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 68,
+      "image_id": 4538088408,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 69,
+      "image_id": 5317403145,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 70,
+      "image_id": 7387568123,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 71,
+      "image_id": 5024583037,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 72,
+      "image_id": 8909452055,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 73,
+      "image_id": 7731803441,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 74,
+      "image_id": 1538284512,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 75,
+      "image_id": 3178258614,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 76,
+      "image_id": 9639939993,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 77,
+      "image_id": 8223791475,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 78,
+      "image_id": 3365916966,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 79,
+      "image_id": 4324714413,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 80,
+      "image_id": 7555996648,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 81,
+      "image_id": 1295003196,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 82,
+      "image_id": 4522982099,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 83,
+      "image_id": 4050574689,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 84,
+      "image_id": 6241618927,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 85,
+      "image_id": 9601253777,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 86,
+      "image_id": 9371993311,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 87,
+      "image_id": 7869403422,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 88,
+      "image_id": 4467471543,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 89,
+      "image_id": 7916013013,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 90,
+      "image_id": 9476322863,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 91,
+      "image_id": 6292899452,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 92,
+      "image_id": 9865726584,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 93,
+      "image_id": 3281615092,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 94,
+      "image_id": 3712405961,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 95,
+      "image_id": 9123361463,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 96,
+      "image_id": 7727854775,
+      "category_id": 2,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "healthy_rice_leaf",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 2,
+      "name": "bacterial_leaf_blight",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 3,
+      "name": "brown_spot",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 4,
+      "name": "leaf_blast",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 5,
+      "name": "leaf_scald",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 6,
+      "name": "sheath_blight",
+      "supercategory": "rice_leaf"
+    }
+  ],
+  "licenses": []
+}

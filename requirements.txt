@@ -1,0 +1,10 @@
+# Required dependencies
+Pillow>=9.5
+
+# Optional dependencies (for COCO API)
+# pycocotools>=2.0.7
+
+
+
+
+

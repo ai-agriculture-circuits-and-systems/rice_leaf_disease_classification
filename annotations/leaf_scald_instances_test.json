@@ -1,0 +1,1855 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Rice Leaf Disease Classification leaf_scald test split",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 1120337945,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_890.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9857534702,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3113.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8315315645,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1687.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5694344980,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1333.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6954797354,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (47).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 6300741176,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1510.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1971263377,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3635.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4282427538,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_898.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2097030694,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3560.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3696820823,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (83).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 4811584716,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3584.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6404732413,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5800.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2023573896,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5383.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7924667068,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5787.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8051898721,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_6074.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5672194394,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2322.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2249566522,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5329.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6973918943,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3364.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6200468151,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1632.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1014043444,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5259.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2999062107,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_6141.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2495209842,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5914.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6381334370,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3854.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7761198000,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2529.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6553687998,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_918.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7327001685,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5442.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7098404078,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_6018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7449987758,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_6321.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3324156109,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_873.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7043868159,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3558.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4115381232,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5337.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2403056936,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1896.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7966221929,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_529.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3795029279,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1482.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7650972800,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (85).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 1544872630,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_6017.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7216240109,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5938.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5058387851,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5212.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9194357722,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1060.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5401565038,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_6269.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2599621140,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_825.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1637873403,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_6307.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9652045603,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3596.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5825130919,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1342.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1544930777,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1160.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6839855818,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2122.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8590793638,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3260.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7678400176,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5768.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7163529891,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (56).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 2168327008,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2292.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8514474892,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3761.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4911025513,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5461.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1038089403,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_960.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4454693920,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (46).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 7266338448,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5326.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9532424112,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2149.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2274656876,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2611.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5702608237,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (89).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 3568557472,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_441.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8697840533,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (98).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 3906720580,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3619.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4076574957,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5530.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2095529014,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_671.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5085152994,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3529.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8072569551,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3909.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1716414091,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_241.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3637015703,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1303.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6503908161,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5402.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1825445691,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (80).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 2339763668,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2903.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7021139538,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1071.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7214022862,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1034.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1392982516,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (87).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 9786087791,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_302.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5461355727,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3382.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2355292513,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1411.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6627094849,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5356.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9990567014,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3711.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8552197998,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5275.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3036747759,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (94).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 6346219035,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5603.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 3469749637,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_6168.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 4792166814,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1791.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 9286051200,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (70).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 8751827292,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1907.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7431714416,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2990.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7408851744,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_2327.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 5961766366,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5836.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7671775719,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_1460.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 1779648347,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_401.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 6398135008,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3882.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 7549640601,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_230.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 2530527961,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_3483.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8251598814,
+      "file_name": "rice_leaves/leaf_scald/images/aug_0_5934.jpg",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "id": 8612268604,
+      "file_name": "rice_leaves/leaf_scald/images/Leaf_scald (103).jpg",
+      "width": 1600,
+      "height": 1200
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1120337945,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9857534702,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8315315645,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5694344980,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6954797354,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6300741176,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1971263377,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4282427538,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2097030694,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 3696820823,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 4811584716,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 6404732413,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 2023573896,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 7924667068,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 8051898721,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 5672194394,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 2249566522,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 6973918943,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 6200468151,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 1014043444,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 2999062107,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 2495209842,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 6381334370,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 7761198000,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 6553687998,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 7327001685,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 7098404078,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 7449987758,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 3324156109,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 7043868159,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 4115381232,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 2403056936,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 7966221929,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 3795029279,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 7650972800,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 1544872630,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 7216240109,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 38,
+      "image_id": 5058387851,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 9194357722,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 5401565038,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 2599621140,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 42,
+      "image_id": 1637873403,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 43,
+      "image_id": 9652045603,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 44,
+      "image_id": 5825130919,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 45,
+      "image_id": 1544930777,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 46,
+      "image_id": 6839855818,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 47,
+      "image_id": 8590793638,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 48,
+      "image_id": 7678400176,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 49,
+      "image_id": 7163529891,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 50,
+      "image_id": 2168327008,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 51,
+      "image_id": 8514474892,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 52,
+      "image_id": 4911025513,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 53,
+      "image_id": 1038089403,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 54,
+      "image_id": 4454693920,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 55,
+      "image_id": 7266338448,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 56,
+      "image_id": 9532424112,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 57,
+      "image_id": 2274656876,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 58,
+      "image_id": 5702608237,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 59,
+      "image_id": 3568557472,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 60,
+      "image_id": 8697840533,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 61,
+      "image_id": 3906720580,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 62,
+      "image_id": 4076574957,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 63,
+      "image_id": 2095529014,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 64,
+      "image_id": 5085152994,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 65,
+      "image_id": 8072569551,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 66,
+      "image_id": 1716414091,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 67,
+      "image_id": 3637015703,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 68,
+      "image_id": 6503908161,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 69,
+      "image_id": 1825445691,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 70,
+      "image_id": 2339763668,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 71,
+      "image_id": 7021139538,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 72,
+      "image_id": 7214022862,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 73,
+      "image_id": 1392982516,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 74,
+      "image_id": 9786087791,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 75,
+      "image_id": 5461355727,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 76,
+      "image_id": 2355292513,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 77,
+      "image_id": 6627094849,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 78,
+      "image_id": 9990567014,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 79,
+      "image_id": 8552197998,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 80,
+      "image_id": 3036747759,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 81,
+      "image_id": 6346219035,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 82,
+      "image_id": 3469749637,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 83,
+      "image_id": 4792166814,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 84,
+      "image_id": 9286051200,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    },
+    {
+      "id": 85,
+      "image_id": 8751827292,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 86,
+      "image_id": 7431714416,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 87,
+      "image_id": 7408851744,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 88,
+      "image_id": 5961766366,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 89,
+      "image_id": 7671775719,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 90,
+      "image_id": 1779648347,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 91,
+      "image_id": 6398135008,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 92,
+      "image_id": 7549640601,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 93,
+      "image_id": 2530527961,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 94,
+      "image_id": 8251598814,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        224,
+        224
+      ],
+      "area": 50176,
+      "iscrowd": 0
+    },
+    {
+      "id": 95,
+      "image_id": 8612268604,
+      "category_id": 5,
+      "bbox": [
+        0,
+        0,
+        1600,
+        1200
+      ],
+      "area": 1920000,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "healthy_rice_leaf",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 2,
+      "name": "bacterial_leaf_blight",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 3,
+      "name": "brown_spot",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 4,
+      "name": "leaf_blast",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 5,
+      "name": "leaf_scald",
+      "supercategory": "rice_leaf"
+    },
+    {
+      "id": 6,
+      "name": "sheath_blight",
+      "supercategory": "rice_leaf"
+    }
+  ],
+  "licenses": []
+}
